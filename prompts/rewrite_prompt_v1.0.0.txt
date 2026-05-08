@@ -1,0 +1,14 @@
+# version: v1.0.0
+# role: user (first pass — no DQA feedback yet)
+
+Rewrite the following raw description into a customs-grade description.
+Apply the rules in the system prompt. Output ONLY the rewritten text.
+
+RAW DESCRIPTION:
+{description}
+
+HS CHAPTER HINT (optional):
+{hs_chapter_hint}
+
+CURRENT HS-10 (optional, from caller):
+{current_hs10}

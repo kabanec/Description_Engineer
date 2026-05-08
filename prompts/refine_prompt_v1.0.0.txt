@@ -1,0 +1,21 @@
+# version: v1.0.0
+# role: user (refinement pass — DQA suggested improvements)
+
+Your previous attempt scored {previous_score}/100 on the Description
+Quality Analyzer. The DQA flagged the issues below. Rewrite the
+description AGAIN, addressing those issues while keeping all the
+customs-grade rules from the system prompt.
+
+PREVIOUS ATTEMPT:
+{previous_description}
+
+DQA FEEDBACK (issues to address):
+{dqa_suggestions}
+
+ORIGINAL RAW DESCRIPTION (for reference — do NOT regress):
+{original_description}
+
+HS CHAPTER HINT (optional):
+{hs_chapter_hint}
+
+Output ONLY the rewritten description — no preamble, no explanation.

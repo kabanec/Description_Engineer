@@ -1,0 +1,14 @@
+{
+  "samples": [
+    {"description": "stuff for hair"},
+    {"description": "skin product", "hs_chapter_hint": "33"},
+    {"description": "general accessories"},
+    {"description": "rubber duck", "hs_chapter_hint": "95"},
+    {"description": "men's polo", "hs_chapter_hint": "61"},
+    {"description": "knife"},
+    {"description": "toy"},
+    {"description": "bottle", "hs_chapter_hint": "39"},
+    {"description": "cable"},
+    {"description": "earbuds", "hs_chapter_hint": "85"}
+  ]
+}
